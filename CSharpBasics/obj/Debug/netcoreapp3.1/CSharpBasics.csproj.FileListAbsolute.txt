@@ -1,0 +1,13 @@
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.exe
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.deps.json
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.json
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.dev.json
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.dll
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.pdb
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csprojAssemblyReference.cache
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfoInputs.cache
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfo.cs
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csproj.CoreCompileInputs.cache
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
+E:\Bipin's Files\Study\6th sem\.NET\VSCODE\Basic\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.genruntimeconfig.cache
